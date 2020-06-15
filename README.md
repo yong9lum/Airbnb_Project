@@ -1,2 +1,2 @@
-# Airbnb_Project
+# Airbnb Project
 This is the very first data science project that I attempted, with some basic Python programming knowledge.
