@@ -1,7 +1,5 @@
 # Airbnb Project
 
-This is the very first data science project that I attempted, with some basic Python programming knowledge.
-
 Airbnb is an online marketplace and hospitality service, enabling people to lease or rent short-term lodging including vacation rentals, apartment rentals, homestays, hostel beds, or hotel rooms. The company does not own any lodging; it is merely a broker & receives percentage service fees (commissions) from both guests & hosts in conjunction with every booking.
 
 In this project, I used questions to guide my exploration on of the dataset to pick up on any trends or insights on the different neighborhoods, the pricing, as well as the satisfaction levels based on reviews.
