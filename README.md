@@ -1,4 +1,4 @@
-# Airbnb Project
+# Airbnb Project - For Customers & Hosts
 
 Airbnb is an online marketplace and hospitality service, enabling people to lease or rent short-term lodging including vacation rentals, apartment rentals, homestays, hostel beds, or hotel rooms. The company does not own any lodging; it is merely a broker & receives percentage service fees (commissions) from both guests & hosts in conjunction with every booking.
 
